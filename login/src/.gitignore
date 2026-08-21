@@ -1,0 +1,13 @@
+# Dependencias de React / Node
+Frontend/node_modules/
+Frontend/dist/
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
